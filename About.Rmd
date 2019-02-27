@@ -1,0 +1,19 @@
+---
+title: "About"
+---
+
+Research Area: 
+Survey Sampling 
+
+Teaching Assistant: 
+STAT 480 
+STAT 301 
+STAT 101 
+
+Skills: 
+R 
+SAS 
+
+My favoratie packages:
+tidyverse  
+ggplot2 
