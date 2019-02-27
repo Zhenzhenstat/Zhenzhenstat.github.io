@@ -3,16 +3,16 @@ title: "About"
 ---
 
 Research Area: 
-Survey Sampling 
+Survey Sampling \
 
 Teaching Assistant: 
 STAT 480 
 STAT 301 
-STAT 101 
+STAT 101 \
 
 Skills: 
 R 
-SAS 
+SAS \
 
 My favoratie packages:
 tidyverse  
