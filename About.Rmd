@@ -15,5 +15,4 @@ R
 SAS \
 
 My favoratie packages:
-"tidyverse"  
-"ggplot2" 
+"tidyverse"  "ggplot2" 
