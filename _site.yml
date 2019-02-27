@@ -1,0 +1,11 @@
+name: "Zhenzhen Chen"
+output_dir: "."
+navbar:
+  title: "My First Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Teaching"
+      href: Teaching.html
