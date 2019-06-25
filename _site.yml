@@ -9,3 +9,5 @@ navbar:
       href: About.html
     - text: "Contact"
       href: Contact.html
+    - text: "Teaching"
+      href: Teaching.html 
